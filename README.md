@@ -1,7 +1,6 @@
 # Hi there, I'm Rahul Khanna 👋
 
-🎓 BCA Student | Aspiring Data Analyst  
-📊 Passionate about Data, SQL, and Machine Learning  
+Data Scientist | Python, SQL & Machine Learning | Data Analytics | R&D & Patent Research | Turning Data into Insights | Open to Work
 
 ---
 
