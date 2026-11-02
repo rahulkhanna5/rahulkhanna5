@@ -65,6 +65,7 @@ MIS reporting, Power BI / Fabric dashboards, process tracking and automation.
 | 🛢️ **[OilSense](https://github.com/rahulkhanna5/crude-oil-price-prediction-system)** | Forecasts crude oil prices with an LSTM + XGBoost + LightGBM ensemble, fed by EIA, FRED, yfinance and news data | Python · FastAPI · Supabase · Docker |
 | 🏋️ **[GymOS](https://github.com/rahulkhanna5/GYMOS)** | Multi-tenant gym management SaaS with memberships, payments and an AI fitness coach | Next.js · Supabase · Razorpay · LangChain + Groq |
 | 📉 **[Churn Predictor](https://github.com/rahulkhanna5/Customer-Churn-Rate-Finder)** | Compares ML models to predict which customers are likely to churn | Python · scikit-learn · Pandas |
+| 🏬 **[Binaryville Analytics](https://github.com/rahulkhanna5/binaryville-fabric-analytics)** | End-to-end Microsoft Fabric Medallion pipeline (bronze, silver, gold) for a multinational retailer, with incremental MERGE loads and a semantic model | Microsoft Fabric · PySpark · Delta Lake · Power BI |
 | 🧠 **[Parkinson's Screening App](https://github.com/rahulkhanna5/parkinsons-app)** | Mobile screening test built around a spiral-tracing game scored in polar coordinates | React Native · Expo · Supabase |
 
 ---
